@@ -1,5 +1,4 @@
 # React ShoppingCart
-
 [Project Link](https://react-shoppingcart-app.herokuapp.com/)
 
 ## Usage
